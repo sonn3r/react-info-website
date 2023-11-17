@@ -1,16 +1,18 @@
 import {useState} from 'react'
 import './App.css'
-
-import Header from "./components/Header.jsx"
-import Content from "./components/Content.jsx";
+import Info from "./components/Info.jsx";
 import Footer from "./components/Footer.jsx";
+import About from "./components/About.jsx";
+import Skills from "./components/Skills";
+import Portfolio from "./components/Portfolio";
 
 function App() {
     return (
         <>
-            <Header/>
-            <Content/>
-            <Footer/>
+            <Info/>
+            <About/>
+            <Skills/>
+            <Portfolio/>
         </>
     )
 }
