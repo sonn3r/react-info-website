@@ -5,7 +5,7 @@ export default function Info() {
         <div className="info">
             <img src={Photo} alt="pfp"/>
             <h1>Andrii Sakhno</h1>
-            <p>FullStack Developer</p>
+            <h3>FullStack Developer</h3>
             <nav>
 
             </nav>
