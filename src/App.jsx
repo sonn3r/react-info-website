@@ -1,6 +1,7 @@
 import {useState} from 'react'
 import './App.css'
 import Info from "./components/Info.jsx";
+import Footer from "./components/Footer.jsx";
 import About from "./components/About.jsx";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
